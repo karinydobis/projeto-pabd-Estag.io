@@ -32,7 +32,7 @@ O projeto está organizado da seguinte forma:
 - Dtos → objetos de transferência e validações
 - DataContext → conexão com o banco de dados
 
-## ▶ Como executar o projeto ✅
+## Como executar o projeto ▶
 
 1️⃣ Clone o repositório
 git clone <https://github.com/karinydobis/projeto-pabd-Estag.io>
